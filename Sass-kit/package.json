@@ -1,0 +1,16 @@
+{
+  "name": "sass-kit",
+  "version": "1.0.0",
+  "description": "Sass boilerplate ",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Erika",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
